@@ -7,11 +7,14 @@ Following data collection, I explored the datasets to understand their structure
 
 #### File Names
 
--Collecting Data Using APIs
+•	Collecting Data Using APIs
 
--Collecting Data Using Web Scraping
+•	Collecting Data Using Web Scraping
 
--Explore the Data Set
+•	Web Scraping Review Lab
+
+•	Explore the Data Set
+
 
 ### Scenario 2
 
