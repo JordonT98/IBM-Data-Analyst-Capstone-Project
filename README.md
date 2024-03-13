@@ -5,7 +5,7 @@ In this scenario, I collected job opening data for technologies like Java, Pytho
 This included data collection through APIs and also involved web scraping techniques to gather additional relevant information. 
 Following data collection, I explored the datasets to understand their structure and contents, facilitating further analysis.
 
-#### File Names
+#### File Names:
 
 •	Collecting Data Using APIs
 
@@ -24,12 +24,18 @@ Data wrangling techniques will be utilized to achieve the following tasks: Ident
 removing duplicate rows from the dataframe, determining the number of missing values for all columns, 
 obtaining the value counts for the "Employment" column, and normalizing the data using two existing columns. 
 
-#### File Names
+#### File Names:
 
 • Data Wrangling
 
 
 ### Scenario 3
+
+In this assignment, I will plot a distribution curve and histogram, find the median and outliers of particular columns, 
+compute the interquartile range, determine the upper and lower bounds, and explore correlations between numerical columns. 
+Additionally, you will create a new dataframe.
+
+#### File Names:
 
 
 
