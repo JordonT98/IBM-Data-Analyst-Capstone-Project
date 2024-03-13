@@ -36,8 +36,18 @@ compute the interquartile range, determine the upper and lower bounds, and explo
 Additionally, you will create a new dataframe.
 
 #### File Names:
+• Exploratory Data Analysis Lab
 
-
+In this assignment, you'll demonstrate your visualization skills using the Stack Overflow Developer Survey 2019 dataset.
+You'll create various plots including histograms, scatter plots, bubble plots, box plots, pie charts, bar charts, 
+and stacked charts to illustrate the distribution, relationships, and counts of the data.
 
 ### Scenario 4
+
+#### File Names:
+
+
+### Scenario 5
+
+#### File Names:
 
