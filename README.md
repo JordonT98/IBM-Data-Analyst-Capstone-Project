@@ -20,15 +20,9 @@ Following data collection, I explored the datasets to understand their structure
 
 Data Wrangling techniques will be used to perform the following tasks:
 
-Identify duplicate rows in the data frame.
-
-Remove duplicate rows from the dataframe.
-
-Find the number of missing values for all columns.
-
-Find the value counts for the column "Employment".
-
-Normalize the data using two existing columns.  
+Data wrangling techniques will be utilized to achieve the following tasks: Identifying duplicate rows in the dataset, 
+removing duplicate rows from the dataframe, determining the number of missing values for all columns, 
+obtaining the value counts for the "Employment" column, and normalizing the data using two existing columns. 
 
 #### File Names
 
