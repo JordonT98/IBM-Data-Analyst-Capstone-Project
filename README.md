@@ -53,5 +53,14 @@ and stacked charts to illustrate the distribution, relationships, and counts of 
 
 ### Scenario 5
 
-#### File Names:
+In this assignment, I developed three dashboard tabs using survey data with IBM Cognos Analytics. The first tab focused on current technology usage, 
+displaying top languages and databases worked with, platforms used, and preferred web frameworks. The second tab highlighted future technology trends, 
+showcasing desired languages, databases, platforms, and web frameworks. The third tab delved into demographics, presenting respondent counts by gender
+, country, age, and gender categorized by education level. Each visualization utilized appropriate chart types and features to provide insights into technology trends and demographics.
+
+#### File Names: 
+
+• Peer-Graded Assignment: Building A Dashboard With IBM Cognos Analytics
+
+
 
