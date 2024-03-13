@@ -18,6 +18,19 @@ Following data collection, I explored the datasets to understand their structure
 
 ### Scenario 2
 
+Data Wrangling techniques will be used to perform the following tasks:
+
+Identify duplicate rows in the data frame.
+
+Remove duplicate rows from the dataframe.
+
+Find the number of missing values for all columns.
+
+Find the value counts for the column "Employment".
+
+Normalize the data using two existing columns.  
+
+#### File Names
 
 
 ### Scenario 3
