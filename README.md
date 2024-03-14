@@ -70,5 +70,5 @@ A PowerPoint template has been provided to get you started however you are free 
 
 #### File Names: 
 
-• Peer-graded Assignment: Peer-graded Assignment
+• Peer-graded Assignment: Final Presentation
 
