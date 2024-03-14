@@ -1,5 +1,14 @@
 # IBM Data Analyst Capstone Project
 
+In this Capstone Project, as a newly hired Data Analyst, I'll delve into the dynamic world of IT skill trends. Tasked with aiding our organization's foresight in tech evolution, 
+I'll collect and analyze data from job postings, training portals, and surveys. Our focus will be on discerning the most sought-after programming languages, database skills, and IDEs. 
+Employing diverse data collection methods, including web scraping and API access, I'll wrangle the data and apply statistical techniques for analysis. Ultimately, leveraging IBM Cognos Analytics, 
+I'll craft insightful dashboards and deliver a compelling presentation, showcasing our findings on emerging IT skills.
+
+
+
+
+
 ### Scenario 1
 In this scenario, I collected job opening data for technologies like Java, Python, MySQL, C++, and C# using the GitHub Jobs API.
 This included data collection through APIs and also involved web scraping techniques to gather additional relevant information. 
